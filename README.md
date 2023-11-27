@@ -1,9 +1,11 @@
 # TrashTrack Pro
-Source code for TrashTrack Pro
-
-Ali, Joseph, Miai, Sam, Xinghua
+Ali, Joseph, Miai, Sam, Xinghua\n
 Prof. Tommy Chiu
 Fall 2023
+
+Source code for TrashTrack Pro
+
+
 Credits
 --------------
 HX711 Library - Bogdan Necula
