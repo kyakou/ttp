@@ -4,7 +4,7 @@
 **Instructor:** Prof. Tommy Chiu  
 **Term:** Fall 2023  
 
-## Source code for TrashTrack Pro 
+This is the repository for the TrashTrack Pro code. 
 
 ### Credits  
 --------------
