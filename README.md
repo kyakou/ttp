@@ -1,2 +1,13 @@
-# ttp
-Source code for TrashTrack Pro, APSC-1010 2023
+# TrashTrack Pro
+Source code for TrashTrack Pro
+
+Ali, Joseph, Miai, Sam, Xinghua
+Prof. Tommy Chiu
+Fall 2023
+Credits
+--------------
+HX711 Library - Bogdan Necula
+LiquidCrystal_I2C Library - Frank de Brabander
+NewPing Library - Tim Eckel
+ESP32Servo - Kevin Harrington, John K. Bennett
+IRremoteESP8266.h - David Conran // Only for testing
