@@ -1,7 +1,7 @@
 # TrashTrack Pro
 Ali, Joseph, Miai, Sam, Xinghua\n
-Prof. Tommy Chiu
-Fall 2023
+Prof. Tommy Chiu\n
+Fall 2023\n
 
 Source code for TrashTrack Pro
 
